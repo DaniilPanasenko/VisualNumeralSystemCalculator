@@ -10,9 +10,12 @@ a desktop application that visualizes all basic mathematical operations in a col
 ### Tehnologies
 C#/Windows Forms
 ### Screenshoots
-##### Creating cartesian tree
-![Creating cartesian tree](https://github.com/DaniilPanasenko/CartesianTree/raw/master/Media/Create.png)
-##### Inserting into saved cartesian tree
-![Inserting into saved cartesian tree](https://github.com/DaniilPanasenko/CartesianTree/raw/master/Media/Insert.png)
-### Demo video
-[![Watch the video](https://github.com/DaniilPanasenko/CartesianTree/raw/master/Media/demo_picture.png)](https://youtu.be/LtpezYmbjVU)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen0.png)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen1.png)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen2.png)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen3.png)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen4.png)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen5.png)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen6.png)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen7.png)
+![](https://github.com/DaniilPanasenko/VisualNumeralSystemCalculator/raw/master/Media/screen8.png)
