@@ -1,14 +1,12 @@
-# CartesianTree
- A desktop application that implements and visualizes the Cartesian tree data structure.
+# VisualNumeralSystemCalculator
+a desktop application that visualizes all basic mathematical operations in a column over numbers in any numeral system.
 ### Features
-- Set the size of the input data array
-- Fill the array with numbers
-- Fill the array with random numbers
-- Draw tree
-- Save the tree and give it a name
-- Select a tree from the list of saved
-- Insert a new element and redraw the tree
-- Crop the modified tree
+- Selection of the numeral system (2-36).
+- Calculation and visualization of mathematical operations in a column over given numbers:
+• addition
+- - adifference
+- - division
+-- multiply
 ### Tehnologies
 C#/Windows Forms
 ### Screenshoots
