@@ -3,10 +3,10 @@ a desktop application that visualizes all basic mathematical operations in a col
 ### Features
 - Selection of the numeral system (2-36).
 - Calculation and visualization of mathematical operations in a column over given numbers:
-• addition
-- - adifference
-- - division
--- multiply
+  - addition
+  - adifference
+  - division
+  - multiply
 ### Tehnologies
 C#/Windows Forms
 ### Screenshoots
